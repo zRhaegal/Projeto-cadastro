@@ -143,10 +143,3 @@ button input[type="submit"] {
 button input[type="submit"]:hover {
   background-color: #41295c;
 }
-
-@media (max-width: 500px) {
-  .row {
-    flex-direction: column;
-    gap: 20px;
-  }
-}
